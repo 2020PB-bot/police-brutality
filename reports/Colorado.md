@@ -12,6 +12,14 @@ At least 5 cops pin man to the ground. Several of them punch him even though he 
 
 ## Denver
 
+### Recaptcha test | Jun 1st
+
+Testing the recaptcha system
+
+**Links**
+* www.google.com/recaptcha
+
+
 
 ### Reporter shot with multiple pepper balls | May 28th
 
