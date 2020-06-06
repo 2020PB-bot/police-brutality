@@ -1,4 +1,13 @@
-## Colorado Springs
+#
+### This is test incident | Jan 1st
+
+This is a test of the incident submission system. The issue created should be closed shortly.
+
+**Links**
+* https://github.com/2020PB/police-brutality
+* www.reddit.com
+
+# Colorado Springs
 
 
 ### Multiple cops pin man to ground while repeatedly punching him | June 1st
