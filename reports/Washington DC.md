@@ -76,3 +76,17 @@ Here, police are captured charging into a crowd of peaceful protestors and hitti
 **Links**
 
 * https://twitter.com/WestofHereFox/status/1267615709791731713
+
+
+### This is test incident | Jan 1st
+
+This is a test of the incident submission system. The issue created should be closed shortly.
+
+id: dc-dc-7
+
+**Links**
+
+* www.github.com
+* www.reddit.com
+
+
