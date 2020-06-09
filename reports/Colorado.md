@@ -154,3 +154,14 @@ id: co-denver-13
 **Links**
 
 * https://www.reddit.com/r/Denver/comments/gwdg85/denver_swat_unit_tackles_group_of_peaceful/
+
+
+### This is test incident | Jan 1st
+
+This is a test incident on the dev submission system. The issue should be opened on the bot's fork
+
+**Links**
+
+* reddit.com
+
+
